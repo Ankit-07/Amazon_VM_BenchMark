@@ -1,5 +1,7 @@
 # Amazon_VM_BenchMark
-Benchmaek Amazon virtual machine
+Benchmarking Amazon virtual machine
+
+Project Given as a Cloud Computing Course in BITS Goa..
 
 - CPU , I/O and mixed benchmark on Amazon virtual machine (Small , Large , Medium , Extra Large EC2 instance).
 - CPU Benchamrk - LINPACK
